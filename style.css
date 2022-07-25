@@ -1,0 +1,23 @@
+.panda-btn-warning {
+    background-color: #ff3987;
+}
+
+.panda-bg-primary {
+    background-color: #fceae8;
+}
+
+.panda-bg-danger {
+    background-color: orange;
+}
+
+.panda-bg-info {
+    background-color: #da70d6;
+}
+
+.panda-bg-success {
+    background-color: #0000ff;
+}
+
+.catagories img {
+    width: 100px;
+}
